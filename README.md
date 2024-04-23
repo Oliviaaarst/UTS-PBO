@@ -88,8 +88,7 @@ B.	UML Diagrams
 
     • Use Case Diagram
     
-    ![image](https://github.com/Oliviaaarst/UTS-PBO/assets/151018674/6b7c7b0c-9c3b-4e0e-85a8-6da0e23160fa)
-
+    ![Gambar tak berjudul](https://github.com/Oliviaaarst/UTS-PBO/assets/151018674/32a71c1f-6483-439a-9614-f7aaf98feecc)
 
       
 
